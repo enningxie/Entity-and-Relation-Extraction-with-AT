@@ -1,2 +1,2 @@
-# neural-relation-extraction
-Neural Relation Extraction
+# Entity-and-Relation-Extraction-with-AT
+NER + Relation Extraction + AT, stay tuned.
